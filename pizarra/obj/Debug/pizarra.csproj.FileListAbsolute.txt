@@ -1,0 +1,13 @@
+C:\Users\ividal\source\repos\pizarra\pizarra\bin\Debug\pizarra.exe
+C:\Users\ividal\source\repos\pizarra\pizarra\bin\Debug\pizarra.pdb
+C:\Users\ividal\source\repos\pizarra\pizarra\obj\Debug\pizarra.csprojAssemblyReference.cache
+C:\Users\ividal\source\repos\pizarra\pizarra\obj\Debug\pizarra.Form1.resources
+C:\Users\ividal\source\repos\pizarra\pizarra\obj\Debug\pizarra.Properties.Resources.resources
+C:\Users\ividal\source\repos\pizarra\pizarra\obj\Debug\pizarra.csproj.GenerateResource.cache
+C:\Users\ividal\source\repos\pizarra\pizarra\obj\Debug\pizarra.csproj.CoreCompileInputs.cache
+C:\Users\ividal\source\repos\pizarra\pizarra\obj\Debug\pizarra.exe
+C:\Users\ividal\source\repos\pizarra\pizarra\obj\Debug\pizarra.pdb
+C:\Users\ividal\source\repos\pizarra\pizarra\bin\Debug\pizarra.exe.manifest
+C:\Users\ividal\source\repos\pizarra\pizarra\bin\Debug\pizarra.application
+C:\Users\ividal\source\repos\pizarra\pizarra\obj\Debug\pizarra.exe.manifest
+C:\Users\ividal\source\repos\pizarra\pizarra\obj\Debug\pizarra.application
