@@ -11,3 +11,16 @@ C:\Users\ividal\source\repos\pizarra\pizarra\bin\Debug\pizarra.exe.manifest
 C:\Users\ividal\source\repos\pizarra\pizarra\bin\Debug\pizarra.application
 C:\Users\ividal\source\repos\pizarra\pizarra\obj\Debug\pizarra.exe.manifest
 C:\Users\ividal\source\repos\pizarra\pizarra\obj\Debug\pizarra.application
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\obj\Debug\pizarra.csprojAssemblyReference.cache
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\obj\Debug\pizarra.Form1.resources
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\obj\Debug\pizarra.Properties.Resources.resources
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\obj\Debug\pizarra.csproj.GenerateResource.cache
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\obj\Debug\pizarra.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\bin\Debug\Pacientes Urgencia.exe.manifest
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\bin\Debug\Pacientes Urgencia.application
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\bin\Debug\Pacientes Urgencia.exe
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\bin\Debug\Pacientes Urgencia.pdb
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\obj\Debug\Pacientes Urgencia.exe.manifest
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\obj\Debug\Pacientes Urgencia.application
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\obj\Debug\Pacientes Urgencia.exe
+C:\Users\Ivan Vidal\Documents\Visual Studio 2017\Pizarra Notebooks\pizarra\obj\Debug\Pacientes Urgencia.pdb
