@@ -162,19 +162,20 @@
             this.label19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(155)))), ((int)(((byte)(219)))));
             this.label19.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label19.ForeColor = System.Drawing.Color.White;
-            this.label19.Location = new System.Drawing.Point(66, 631);
+            this.label19.Location = new System.Drawing.Point(67, 626);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(461, 47);
             this.label19.TabIndex = 37;
-            this.label19.Text = "MEDICINA NIÑOS";
+            this.label19.Text = "MEDICINA PEDIATRÍA";
             this.label19.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label19.Click += new System.EventHandler(this.label19_Click);
             // 
             // totaln
             // 
             this.totaln.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.totaln.BackColor = System.Drawing.Color.WhiteSmoke;
             this.totaln.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.totaln.Location = new System.Drawing.Point(1183, 542);
+            this.totaln.Location = new System.Drawing.Point(1184, 626);
             this.totaln.Name = "totaln";
             this.totaln.Size = new System.Drawing.Size(81, 47);
             this.totaln.TabIndex = 36;
@@ -185,7 +186,7 @@
             this.totala.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.totala.BackColor = System.Drawing.Color.WhiteSmoke;
             this.totala.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.totala.Location = new System.Drawing.Point(1183, 631);
+            this.totala.Location = new System.Drawing.Point(1184, 540);
             this.totala.Name = "totala";
             this.totala.Size = new System.Drawing.Size(81, 47);
             this.totala.TabIndex = 35;
@@ -288,7 +289,7 @@
             this.sincn.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.sincn.BackColor = System.Drawing.Color.WhiteSmoke;
             this.sincn.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sincn.Location = new System.Drawing.Point(1068, 542);
+            this.sincn.Location = new System.Drawing.Point(1069, 626);
             this.sincn.Name = "sincn";
             this.sincn.Size = new System.Drawing.Size(81, 47);
             this.sincn.TabIndex = 32;
@@ -299,7 +300,7 @@
             this.sinc.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.sinc.BackColor = System.Drawing.Color.WhiteSmoke;
             this.sinc.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sinc.Location = new System.Drawing.Point(1069, 631);
+            this.sinc.Location = new System.Drawing.Point(1070, 540);
             this.sinc.Name = "sinc";
             this.sinc.Size = new System.Drawing.Size(81, 47);
             this.sinc.TabIndex = 31;
@@ -323,7 +324,7 @@
             this.MNC5N.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.MNC5N.BackColor = System.Drawing.Color.WhiteSmoke;
             this.MNC5N.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.MNC5N.Location = new System.Drawing.Point(955, 542);
+            this.MNC5N.Location = new System.Drawing.Point(956, 626);
             this.MNC5N.Name = "MNC5N";
             this.MNC5N.Size = new System.Drawing.Size(81, 47);
             this.MNC5N.TabIndex = 29;
@@ -334,7 +335,7 @@
             this.mnc4.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.mnc4.BackColor = System.Drawing.Color.WhiteSmoke;
             this.mnc4.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mnc4.Location = new System.Drawing.Point(840, 542);
+            this.mnc4.Location = new System.Drawing.Point(841, 626);
             this.mnc4.Name = "mnc4";
             this.mnc4.Size = new System.Drawing.Size(81, 47);
             this.mnc4.TabIndex = 28;
@@ -345,7 +346,7 @@
             this.mnc3.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.mnc3.BackColor = System.Drawing.Color.WhiteSmoke;
             this.mnc3.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mnc3.Location = new System.Drawing.Point(725, 542);
+            this.mnc3.Location = new System.Drawing.Point(726, 626);
             this.mnc3.Name = "mnc3";
             this.mnc3.Size = new System.Drawing.Size(81, 47);
             this.mnc3.TabIndex = 27;
@@ -356,7 +357,7 @@
             this.mnc2.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.mnc2.BackColor = System.Drawing.Color.WhiteSmoke;
             this.mnc2.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mnc2.Location = new System.Drawing.Point(623, 542);
+            this.mnc2.Location = new System.Drawing.Point(624, 626);
             this.mnc2.Name = "mnc2";
             this.mnc2.Size = new System.Drawing.Size(81, 47);
             this.mnc2.TabIndex = 26;
@@ -367,7 +368,7 @@
             this.mac55.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.mac55.BackColor = System.Drawing.Color.WhiteSmoke;
             this.mac55.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mac55.Location = new System.Drawing.Point(952, 631);
+            this.mac55.Location = new System.Drawing.Point(953, 540);
             this.mac55.Name = "mac55";
             this.mac55.Size = new System.Drawing.Size(81, 47);
             this.mac55.TabIndex = 25;
@@ -378,7 +379,7 @@
             this.mac4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.mac4.BackColor = System.Drawing.Color.WhiteSmoke;
             this.mac4.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mac4.Location = new System.Drawing.Point(840, 631);
+            this.mac4.Location = new System.Drawing.Point(841, 540);
             this.mac4.Name = "mac4";
             this.mac4.Size = new System.Drawing.Size(81, 47);
             this.mac4.TabIndex = 24;
@@ -389,7 +390,7 @@
             this.mac3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.mac3.BackColor = System.Drawing.Color.WhiteSmoke;
             this.mac3.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mac3.Location = new System.Drawing.Point(725, 631);
+            this.mac3.Location = new System.Drawing.Point(726, 540);
             this.mac3.Name = "mac3";
             this.mac3.Size = new System.Drawing.Size(81, 47);
             this.mac3.TabIndex = 23;
@@ -401,7 +402,7 @@
             this.mac2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.mac2.BackColor = System.Drawing.Color.WhiteSmoke;
             this.mac2.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.mac2.Location = new System.Drawing.Point(621, 631);
+            this.mac2.Location = new System.Drawing.Point(622, 540);
             this.mac2.Name = "mac2";
             this.mac2.Size = new System.Drawing.Size(81, 47);
             this.mac2.TabIndex = 22;
@@ -513,7 +514,7 @@
             this.label14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(155)))), ((int)(((byte)(219)))));
             this.label14.Font = new System.Drawing.Font("Century Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.ForeColor = System.Drawing.Color.White;
-            this.label14.Location = new System.Drawing.Point(66, 542);
+            this.label14.Location = new System.Drawing.Point(67, 540);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(461, 47);
             this.label14.TabIndex = 13;
